@@ -1,0 +1,1 @@
+# generate_signals.py uses Python 3.11+ stdlib only; this file exists for pip cache in CI.

@@ -1,0 +1,1 @@
+MRK,WMT,CAT,MU,STX

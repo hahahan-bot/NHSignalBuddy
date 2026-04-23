@@ -1,0 +1,4 @@
+com.nhsignalbuddy.test.app-androidTest-0 C:\Users\windows\Desktop\NHSignalBuddy\app\build\generated\res\resValues\androidTest\debug
+com.nhsignalbuddy.test.app-mergeDebugAndroidTestResources-1 C:\Users\windows\Desktop\NHSignalBuddy\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.nhsignalbuddy.test.app-mergeDebugAndroidTestResources-2 C:\Users\windows\Desktop\NHSignalBuddy\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.nhsignalbuddy.test.app-debugAndroidTest-3 C:\Users\windows\Desktop\NHSignalBuddy\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

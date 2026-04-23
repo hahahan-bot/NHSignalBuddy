@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color macro_btn_default_tint
+color macro_btn_warn_bg
+id actionText
+id autoRefreshMacroCheck
+id capHintText
+id clearMacroUriBtn
+id clearSignalsFileBtn
+id editWatchlistBtn
+id grokSummaryText
+id headerText
+id macroFileStatusText
+id pickMacroFileBtn
+id pickMacroTreeBtn
+id pickSignalsFileBtn
+id priceText
+id reasonText
+id refreshMacroFileBtn
+id refreshSignalsDataBtn
+id signalList
+id signalRemoteFetchTimeText
+id signalRemoteUrlEdit
+id signalsFileStatusText
+id symbolText
+id titleText
+id tpSlText
+id trendPicksText
+layout activity_main
+layout item_signal_card
+string app_name
+style Theme.NHSignalBuddy

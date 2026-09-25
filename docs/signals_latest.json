@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T05:41:52",
-  "vix_now": 15.180000305175781,
+  "generated_at": "2026-09-25T05:39:18",
+  "vix_now": 15.670000076293945,
   "vix_max": 25.0,
   "rules": {
     "tp_pct": 15.0,
@@ -9,7 +9,7 @@
   "rows": [
     {
       "symbol": "MRK",
-      "last_price": 148.08,
+      "last_price": 147.98,
       "trend_up": true,
       "vix_ok": true,
       "action": "BUY_CANDIDATE",
@@ -19,7 +19,7 @@
     },
     {
       "symbol": "WMT",
-      "last_price": 110.53,
+      "last_price": 107.59,
       "trend_up": false,
       "vix_ok": true,
       "action": "WAIT",
@@ -29,7 +29,7 @@
     },
     {
       "symbol": "CAT",
-      "last_price": 812.02,
+      "last_price": 805.25,
       "trend_up": true,
       "vix_ok": true,
       "action": "BUY_CANDIDATE",
@@ -39,7 +39,7 @@
     },
     {
       "symbol": "MU",
-      "last_price": 1071.88,
+      "last_price": 1080.53,
       "trend_up": true,
       "vix_ok": true,
       "action": "BUY_CANDIDATE",
@@ -49,7 +49,7 @@
     },
     {
       "symbol": "STX",
-      "last_price": 923.86,
+      "last_price": 905.92,
       "trend_up": true,
       "vix_ok": true,
       "action": "BUY_CANDIDATE",

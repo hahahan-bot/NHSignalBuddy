@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T08:05:42",
-  "vix_now": 25.459999084472656,
+  "generated_at": "2026-11-19T08:13:52",
+  "vix_now": 24.559999465942383,
   "vix_max": 25.0,
   "rules": {
     "tp_pct": 15.0,
@@ -9,19 +9,19 @@
   "rows": [
     {
       "symbol": "MRK",
-      "last_price": 143.37,
+      "last_price": 137.78,
       "trend_up": true,
-      "vix_ok": false,
-      "action": "WAIT",
-      "reason": "trend_up_but_vix_high",
+      "vix_ok": true,
+      "action": "BUY_CANDIDATE",
+      "reason": "trend_up_and_vix_ok",
       "tp_price": null,
       "sl_price": null
     },
     {
       "symbol": "WMT",
-      "last_price": 127.52,
+      "last_price": 127.36,
       "trend_up": false,
-      "vix_ok": false,
+      "vix_ok": true,
       "action": "WAIT",
       "reason": "no_entry_signal",
       "tp_price": null,
@@ -29,9 +29,9 @@
     },
     {
       "symbol": "CAT",
-      "last_price": 570.79,
+      "last_price": 558.77,
       "trend_up": false,
-      "vix_ok": false,
+      "vix_ok": true,
       "action": "WAIT",
       "reason": "no_entry_signal",
       "tp_price": null,
@@ -39,21 +39,21 @@
     },
     {
       "symbol": "MU",
-      "last_price": 712.42,
+      "last_price": 705.27,
       "trend_up": true,
-      "vix_ok": false,
-      "action": "WAIT",
-      "reason": "trend_up_but_vix_high",
+      "vix_ok": true,
+      "action": "BUY_CANDIDATE",
+      "reason": "trend_up_and_vix_ok",
       "tp_price": null,
       "sl_price": null
     },
     {
       "symbol": "STX",
-      "last_price": 504.4,
+      "last_price": 515.9,
       "trend_up": true,
-      "vix_ok": false,
-      "action": "WAIT",
-      "reason": "trend_up_but_vix_high",
+      "vix_ok": true,
+      "action": "BUY_CANDIDATE",
+      "reason": "trend_up_and_vix_ok",
       "tp_price": null,
       "sl_price": null
     }
